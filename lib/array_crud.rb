@@ -43,5 +43,6 @@ end
 
 def update_element_from_index
 array = ["wow", "I", "am", "really"]
-arry[0]
+arry[4] = "adeola"
+=> "adeola"
 end
